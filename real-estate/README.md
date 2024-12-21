@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
   <div align="center">
-    <img src="./assets/1.jpg"alt="Real Estate">
-    <img src="./assets/2.jpg"alt="Real Estate">
-    <img src="./assets/3.jpg"alt="Real Estate">
-    <img src="./assets/4.jpg"alt="Real Estate">
-    <img src="./assets/5.jpg.jpg"alt="Real Estate">
+    <img src="./assets/1.jpg" alt="Real Estate" height="330px">
+    <img src="./assets/2.jpg" alt="Real Estate" height="330px">
+    <img src="./assets/3.jpg" alt="Real Estate" height="330px">
+    <img src="./assets/4.jpg" alt="Real Estate" height="330px">
+    <img src="./assets/5.jpg" alt="Real Estate" height="330px">
   </div>
 </div>
 

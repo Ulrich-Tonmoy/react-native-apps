@@ -10,6 +10,11 @@
   </div>
 
   <h3 align="center">Foodi Food Delivery Mobile App</h3>
+    <div align="center">
+      <img src="./assets/1.jpg" alt="Foodi" height="330px">
+      <img src="./assets/2.jpg" alt="Foodi" height="330px">
+      <img src="./assets/3.jpg" alt="Foodi" height="330px">
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -78,6 +83,15 @@ Create a new file named `.env` in the root of your project and add the following
 ```env
 EXPO_PUBLIC_APPWRITE_PROJECT_ID=
 EXPO_PUBLIC_APPWRITE_ENDPOINT=
+EXPO_PUBLIC_APPWRITE_PLATFORM_ID=
+EXPO_PUBLIC_APPWRITE_DATABASE_ID=
+EXPO_PUBLIC_APPWRITE_USER_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_CATEGORIES_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_MENU_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_CUSTOMIZATIONS_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_MENU_CUSTOMIZATIONS_COLLECTION_ID=
+EXPO_PUBLIC_APPWRITE_BUCKET_ID=
+
 ```
 
 Replace the placeholder values with your actual credentials by signing up on the **[Appwrite](https://jsm.dev/rn-food-appwrite)** dashboard.
